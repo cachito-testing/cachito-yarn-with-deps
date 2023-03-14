@@ -5,6 +5,7 @@
     "cachito-yarn-without-deps": "git+https://github.com/cachito-testing/cachito-yarn-without-deps.git",
     "chai": "4.2.0",
     "fecha": "https://github.com/taylorhakes/fecha/archive/91680e4db1415fea33eac878cfd889c80a7b55c7.tar.gz",
+    "rightpad": "npm:leftpad",
     "is-positive": "^3.1.0"
   }
 }
